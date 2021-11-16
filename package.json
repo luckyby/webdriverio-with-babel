@@ -1,5 +1,5 @@
 {
-    "name": "webdriverio-tests",
+    "name": "webdriverio-with-promise",
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
