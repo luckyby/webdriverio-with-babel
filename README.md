@@ -3,7 +3,7 @@
 Checking out how to use webdriverio 'import' mode with Babel. 
 
 
-It's described in Babe's docs:
+It's described in Babel's docs:
 https://v6.webdriver.io/docs/babel.html
 
 To do so, first install the necessary Babel dependencies:
