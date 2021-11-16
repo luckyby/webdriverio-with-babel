@@ -1,1 +1,1 @@
-# webdriverio-with-promise
+# webdriverio-with-babel
