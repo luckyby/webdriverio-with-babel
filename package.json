@@ -1,5 +1,5 @@
 {
-    "name": "webdriverio-with-promise",
+    "name": "webdriverio-with-babel",
     "version": "0.1.0",
     "private": true,
     "devDependencies": {
